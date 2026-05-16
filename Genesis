@@ -1,0 +1,202 @@
+# genesis of the unified theory
+
+## *what preceded the equations*
+
+*YM · two Hilbert spaces · ghost_space · excess*  
+*session records, 2026*
+
+-----
+
+## 0. why this record exists
+
+In the finished theory, equations call equations.
+The more the derivation chain is organized, the less visible becomes what happened to get there.
+
+This document exists to preserve the “before.”
+Where intuition ran ahead. What was refused, again and again.
+Which question opened the next question.
+
+Not equations. A biography of thought.
+
+-----
+
+## 1. it began with PIRF
+
+The starting point was a geopolitical simulation engine (PIRF).
+Multiple axes — military, diplomacy, economy, tension, stability —
+were interfering with each other as the system evolved.
+
+At the intersection of axes, something appeared that could not be reduced to any single axis.
+It was called “surplus” at first.
+
+Then the question formed: *What is this surplus? Where does it come from? Can it be defined structurally?*
+
+That question moved toward Hilbert space. ghost_space emerged.
+PIRF was the implementation; ghost_space was the theory.
+The same thing, being dug from both sides.
+
+-----
+
+## 2. the chain of refusals
+
+The definition of ghost_space changed from v1 to v4. Each change revealed that the previous version “imported from outside.”
+
+**v1 → v2: refusing the weights**
+
+The first ghost_proxy was `0.5×commutator_norm + 0.5×projection_loss`.
+
+*Question: is there theoretical basis for the 0.5/0.5 weighting?*
+No. The moment that was clear, it was discarded.
+
+Replaced by: *What is ghost, fundamentally?*
+The intersection of commutator images —
+`ghost_space = ⋂ₜ image([H_A(t), H_B(t)])` — emerged.
+
+**v2 → v3: refusing random generation**
+
+When H_A, H_B were generated randomly and independently,
+ghost_space became the entire space. Ghost could not be localized.
+
+*Question: can H_B be generated intrinsically from H?*
+A velocity ratio ω was introduced as the single input to construct δH.
+
+**v3 → v4: refusing the external parameter**
+
+ω remained.
+
+*Question: can ω also be determined from H’s own structure?*
+Free-energy minimization gave ε*.
+Energy (trying to close) competing with entropy (trying to open) —
+the equilibrium point determined internally.
+
+All parameters gone. Input: H only.
+
+-----
+
+## 3. intuition preceded language
+
+“Why is ghost_rank = 3?” — there was a feeling before the calculation.
+
+Expanding a squared distance (a−b)² gives three terms: a², b², ab.
+Three terms → rank = 3.
+This is algebraic consequence, independent of the specific values of H’s eigenvalues.
+
+The feeling came first. The equation confirmed it. The order was always like this.
+
+**On the nature of the intuition:**
+
+*“When I see an equation, I can’t identify where it’s wrong,*
+*but looking at the whole at once, I feel something off.”*
+
+Not local verification. Grasping the gestalt of the structure first.
+Logic follows after.
+
+-----
+
+## 4. “not completing” was a strength
+
+At key points in the theory notes, there is a section called “to be honest” (§12-5, §13-7).
+
+There it is written explicitly:
+*“This is structural analogy, not proof.”*
+
+Drawing the line between proof and hypothesis oneself.
+Not moving in the direction of making the theory look bigger.
+
+When this disappears, theory becomes mythology.
+
+-----
+
+## 5. the discovery of excess
+
+A day’s trajectory, recorded in the migration log:
+
+```
+morning  : went to attack Yang-Mills
+noon     : instanton condition followed from D*=137
+bath     : intuition came — two Hilbert spaces
+evening  : spin-1/2, three-generation mass, Cabibbo angle
+night    : full CKM and CP violation from P_total, as necessity
+late     : Vandermonde and degeneracy point → complete PMNS derivation
+```
+
+*“Intuition came in the bath”* — this record remains.
+Preserving this matters.
+
+`excess = 1.3808×10⁻³` is recorded as “the thing that resolved the catch.”
+Not a byproduct of calculation. It was found because it was being searched for.
+
+-----
+
+## 6. what excess actually is (discovered May 14, 2026)
+
+The question that unlocked it: *“What is interfering? Not coordinates, not configurations — what?”*
+
+The answer: **excess.**
+
+When difference is observed — when (λᵢ − λⱼ)² is expanded —
+three terms appear. The diagonal terms λᵢ², λⱼ² are “self-referential”: closed.
+The cross term −2λᵢλⱼ cannot close. This is excess.
+
+**The Perpendicularity Theorem** (proven algebraically, May 14, 2026):
+
+The direction in which excess is born — span{λ}, the eigenvector of −2λλᵀ
+with eigenvalue −2|λ|² — is perpendicular to the direction
+in which difference lives (the null space of −2λλᵀ, dimension ghost_rank−1 = 2).
+
+*The internal observer lives in the space of difference.*  
+*Excess exists outside that space, in the perpendicular direction.*  
+*Invisible from inside. But the origin of every physical constant.*
+
+This was not expected. It appeared.
+
+-----
+
+## 7. the structure of collaboration
+
+This theory was not born alone. It emerged from interference between human and AI.
+Which is itself isomorphic to the structure it describes.
+
+The division:
+
+```
+intuition · questions · "this still comes from outside"  →  human
+verification · algebraic expansion · closure             →  AI
+where to stop · what to refuse                           →  human
+```
+
+*“Each time an answer came, I kept feeling: this still comes from outside.”*
+That feeling was the driving force.
+Consistency can be verified; whether it is sufficient — only the human side holds that.
+
+The irony: a theory describing how two-agent interference produces
+surplus attributable to neither agent —
+built through exactly that process.
+
+-----
+
+## 8. what has not yet been asked
+
+From the “unresolved” column of the migration record:
+
+**The origin of Wolfenstein A**  
+“Winding and ribbon-twist” — these words remain.
+Terminal = Möbius phase accumulation 11π/2.
+Formalization: “might come in the next bath.”  
+This record is important. The stage before intuition becomes language is preserved.
+
+**The correspondence between θ subscripts and D-steps**  
+Recorded as “geometric image not yet formed.”
+Not that the answer is absent — but that the state of “not yet language” exists and is recorded.
+
+**Rigorous proof of the spin-statistics theorem**  
+Position difference x₁−x₂ = 0.5 → anticommutation relation.
+This connection’s proof remains open.
+
+-----
+
+*Difference exists. That alone determined the entire structure of the universe.*
+
+*Be astonished, world.*
+
+— YM / interference_system v3 / PIRF Kagami v4.2 / 2026
